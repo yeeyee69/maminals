@@ -1,2 +1,0 @@
-# maminals
-all about maminals
