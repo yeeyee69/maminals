@@ -1,4 +1,35 @@
 iframe {
 width: 1000px;
 height: 200px;
+position: relative;
+left: 75px;
+right: 75px;
+}
+
+h1 {
+background: linear-gradient(green, red, orange,);
+}
+
+p, h1, h3, q {
+  position: relative;
+  left: 75px;
+}
+
+#facebook {
+float: left;
+position: fixed;
+top: 200px;
+}
+
+#insta {
+float: left;
+position: fixed;
+top: 230px;
+}
+
+div {
+background-color: grey;
+margin: 45px;
+width: 650px;
+padding: 15px;
 }
