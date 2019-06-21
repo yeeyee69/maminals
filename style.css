@@ -10,7 +10,7 @@ h1 {
 background: linear-gradient(green, red, orange,);
 }
 
-p, h1, h3, q {
+p, h1, h3 {
   position: relative;
   left: 75px;
 }
@@ -28,8 +28,30 @@ top: 230px;
 }
 
 div {
-background-color: grey;
+background-color: #ccccff;
 margin: 45px;
 width: 650px;
 padding: 15px;
+}
+
+#advertisement {
+  position: absolute;
+  left: 900px;
+  width: 250px;
+  height: 1000px;
+}
+
+#index {
+  position: absolute;
+  left: 750px;
+  background: linear-gradient(#ff6600, #ff9900);
+}
+
+#span_index___spandex {
+font-size: 20px;
+font-weight: bold;
+}
+
+a:hover {
+  color: #94b8b8;
 }
