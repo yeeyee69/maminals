@@ -1,5 +1,5 @@
-iframe {
-width: 1000px;
+#ad_1 {
+width: 1200px;
 height: 200px;
 position: relative;
 left: 75px;
@@ -8,6 +8,8 @@ right: 75px;
 
 h1 {
 background: linear-gradient(green, red, orange,);
+width: 1000px;
+text-align: center;
 }
 
 p, h1, h3 {
@@ -34,13 +36,6 @@ width: 650px;
 padding: 15px;
 }
 
-#advertisement {
-  position: absolute;
-  left: 900px;
-  width: 250px;
-  height: 1000px;
-}
-
 #index {
   position: absolute;
   left: 750px;
@@ -54,4 +49,24 @@ font-weight: bold;
 
 a:hover {
   color: #94b8b8;
+}
+
+#c {
+color: green;
+}
+
+#o {
+  color: #ffccff;
+}
+
+#l {
+  color: #ff99ff;
+}
+
+#g {
+color: #ff66ff;
+}
+
+#r {
+color: #ff00ff;
 }
