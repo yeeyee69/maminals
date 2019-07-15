@@ -1,29 +1,107 @@
-#background2 {
-  background-color: grey;
-  height: 1000px;
+/* header-top-div-small */
+#header-top-div-small {
+  background-color: black;
+  height: 20px;
 }
 
-#HEADING1 {
-  text-align: center;
-  font-size: 45;
-  color: white;
+#ABOUT-US {
+position: absolute;
+color: white;
+top: 6px;
+right: 180px;
 }
 
-#primary_heading {
-  background-color: #38352d;
-  width: 500px;
-  margin: 75px;
+#ABOUT-US:hover {
+position: absolute;
+color: lightblue;
+top: 6px;
+right: 180px;
 }
 
-#fontbold {
-  font-weight: bold;
-  font-size: 20px;
-  color: linen;
+#FORUM {
   position: absolute;
-  left: 80px;
-  top: 100px;
+  color: white;
+  right: 100px;
+  top: 6px;
 }
 
-#-or- {
+#FORUM:hover{
+  position: absolute;
+  color: lightblue;
+  right: 100px;
+  top: 6px;
+}
 
-}//
+/* header-top-div-small */
+/* header-medium-div-big */
+#header-medium-div-big {
+  color: white;
+  height: 200px;
+}
+
+
+#labroadoreaite {
+  text-decoration: none;
+  position: absolute;
+  color: #53bd8a;
+  font-size: 40px;
+  top: 80px;
+  left: 120px;
+  }
+  
+#labroadoreaite:hover  {
+  text-decoration: none;
+  position: absolute;
+  color: #53bd8a;
+}
+
+#labroadoreaite:active {
+  text-decoration: none;
+  position: absolute;
+  color: #53bd8a;
+}
+
+#labroadoreaite:visited {
+  text-decoration: none;
+  position: absolute;
+  color: #53bd8a;
+}
+
+#labroadoreaite:link {
+  text-decoration: none;
+  position: absolute;
+  color: #53bd8a;
+}
+
+#the {
+color: black;
+text-decoration: none;
+position: absolute;
+font-size: 40px;
+}
+
+#the:hover {
+color: black;
+text-decoration: none;
+position: absolute;
+}
+
+#the:link {
+color: black;
+text-decoration: none;
+position: absolute;
+}
+
+#the:active {
+color: black;
+text-decoration: none;
+position: absolute;
+}
+
+#the:visited {
+color: black;
+text-decoration: none;
+position: absolute;
+}
+
+/* header-medium-div-big */
