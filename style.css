@@ -25,7 +25,7 @@ color: white;
   color: #0059ff;
   position: absolute;
   font-size: 25px;
-  right: 250px;
+  right: 232px;
   top: 100px;
 }
 
@@ -51,4 +51,80 @@ color: white;
 #sign-in {
   color: white;
   text-decoration: none;
+}
+
+/* this is the main intro stuffs */
+
+#Home_div {
+  background: radial-gradient(#00aeff, #008cff);
+  width: 1000px;
+  height: 250px;
+  position: absolute;
+  top: 200px;
+}
+
+#Home {
+color: white;
+font-size: 25px;
+position: absolute;
+text-decoration: none;
+background-color: #006aff;
+left: 150px;
+top: 30px;
+border-radius: 7px;
+}
+
+#Home:hover {
+color: white;
+font-size: 25px;
+position: absolute;
+text-decoration: none;
+background-color: #004cff;
+left: 150px;
+top: 30px;
+border-radius: 7px;
+}
+
+#What-New {
+color: white;
+font-size: 25px;
+position: absolute;
+text-decoration: none;
+background-color: #006aff;
+left: 230px;
+top: 30px;
+border-radius: 7px;
+}
+
+#What-New:hover {
+color: white;
+font-size: 25px;
+position: absolute;
+text-decoration: none;
+background-color: #004cff;
+left: 230px;
+top: 30px;
+border-radius: 7px;
+}
+
+#Memebership-Services {
+color: white;
+font-size: 25px;
+position: absolute;
+text-decoration: none;
+background-color: #006aff;
+left: 360px;
+top: 30px;
+border-radius: 7px;
+}
+
+#Memebership-Services:hover {
+color: white;
+font-size: 25px;
+position: absolute;
+text-decoration: none;
+background-color: #004cff;
+left: 360px;
+top: 30px;
+border-radius: 7px;
 }
