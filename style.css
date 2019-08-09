@@ -1,0 +1,54 @@
+#top-div-small {
+  height: 35px;
+  background: radial-gradient(#00e5ff, #00a6ff);
+}
+
+#Calculator {
+position: absolute;
+left: 400px;
+color: white;
+}
+
+#Location {
+  position: absolute;
+  left: 320px;
+  color: white;
+}
+
+#date {
+position: absolute;
+left: 475px;
+color: white;
+}
+
+#home-banking {
+  color: #0059ff;
+  position: absolute;
+  font-size: 25px;
+  right: 250px;
+  top: 100px;
+}
+
+#div-around-sign-in {
+  background-color: #0059ff;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  color: white;
+  position: absolute;
+  top: 150px;
+  left: 285px;
+  height: 25px;
+  width: 65px;
+  border: solid #00ddff 3px;
+}
+
+#div-around-sign-in:hover {
+  border: solid #007bff 3px;
+}
+
+#sign-in {
+  color: white;
+  text-decoration: none;
+}
