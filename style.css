@@ -128,3 +128,80 @@ left: 360px;
 top: 30px;
 border-radius: 7px;
 }
+
+#div-text1 {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  width: 250px;
+  top: 90px;
+  right: 550px;
+}
+
+#lighten {
+  font-weight: bold;
+}
+
+#announcment {
+position: absolute;
+top: 450px;
+opacity: 0.75;
+}
+
+#want-to-join-div {
+background-color: #00aeff;
+color: white;
+font-size: 25px;
+top: 550px;
+left: 100px;
+border-radius: 7px;
+position: absolute;
+height: 75px;
+width: 175px;
+}
+
+#want-to-join-div:hover {
+background-color: #007bff;
+color: white;
+font-size: 25px;
+top: 550px;
+left: 100px;
+border-radius: 7px;
+position: absolute;
+height: 75px;
+width: 175px;
+}
+
+#a-want-to-join {
+  color: white;
+  text-decoration: none;
+}
+
+#need-a-loan-div {
+background-color: #00aeff;
+color: white;
+font-size: 25px;
+top: 550px;
+left: 100px;
+border-radius: 7px;
+position: absolute;
+height: 75px;
+width: 175px;
+}
+
+#want-to-join-div:hover {
+background-color: #007bff;
+color: white;
+font-size: 25px;
+top: 550px;
+left: 100px;
+border-radius: 7px;
+position: absolute;
+height: 75px;
+width: 175px;
+}
+
+#a-want-to-join {
+  color: white;
+  text-decoration: none;
+}
