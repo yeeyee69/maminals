@@ -1,0 +1,12 @@
+#main-heading {
+text-shadow: 1px 1px 1px 1px;
+text-align: center;
+}
+
+body {
+  background-color: #99ffd6;
+}
+
+#border {
+  border: solid red 2px;
+}
