@@ -10,3 +10,20 @@ body {
 #border {
   border: solid red 2px;
 }
+
+#best-gutair-players {
+width: 300px;
+position: absolute;
+right: 150px;
+}
+
+#back-button {
+position: absolute;
+top: 200px;
+}
+
+#forward-button {
+position: absolute;
+top: 200px;
+right: 50px;
+}
