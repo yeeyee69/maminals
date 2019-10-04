@@ -1,22 +1,65 @@
-#more {
-  color: black;
-  text-decoration: none;
+#top-div-small {
+background-color: #2098c7; 
+height: 80px;
 }
 
-#Owlcation {
-font-family: fantasy;
-text-decoration: none;
-font-size: 34px;
+#planets {
 position: absolute;
-right: 300px;
-color: blue;
-top: 0px;
+right: 350px;
+color: white;
 }
 
-#sign-in {
-  color: black;
-  text-decoration: none;
-  position: absolute;
-  right: 10px;
+#System {
+position: absolute;
+right: 250px;
+color: white;
+}
+
+#Galaxies {
+position: absolute;
+right: 180px;
+color: white;
+}
+
+#Moons {
+position: absolute;
+right: 120px;
+color: white;
+}
+
+#Universe {
+position: absolute;
+right: 50px;
+color: white;
+}
+
+#planets:hover {
+position: absolute;
+right: 350px;
+color: orange;
+}
+
+#System:hover {
+position: absolute;
+right: 250px;
+color: orange;
+}
+
+#Galaxies:hover {
+position: absolute;
+right: 180px;
+color: orange;
+}
+
+#Moons:hover {
+position: absolute;
+right: 120px;
+color: orange;
+}
+
+#Universe:hover {
+position: absolute;
+right: 50px;
+color: orange;
 }
 
