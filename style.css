@@ -1,115 +1,35 @@
-#top-div-small {
-background-color: #2098c7; 
-height: 80px;
+#top-div {
+  background-color: black;
 }
 
-#planets {
-position: absolute;
-right: 350px;
-color: white;
+#heading {
+  color: white;
+  text-align: center;
 }
 
-#System {
-position: absolute;
-right: 250px;
-color: white;
+#heading-p {
+  color: white;
+  text-align: center;
+  top: 3px;
 }
 
-#Galaxies {
-position: absolute;
-right: 180px;
-color: white;
+#who {
+  border-bottom: solid yellow 3px;
+  font-weight: bold;
 }
 
-#Moons {
-position: absolute;
-right: 120px;
-color: white;
+#date {
+opacity: 0.5;
 }
 
-#Universe {
-position: absolute;
-right: 50px;
-color: white;
-}
-
-#planets:hover {
-position: absolute;
-right: 350px;
-color: orange;
-}
-
-#System:hover {
-position: absolute;
-right: 250px;
-color: orange;
-}
-
-#Galaxies:hover {
-position: absolute;
-right: 180px;
-color: orange;
-}
-
-#Moons:hover {
-position: absolute;
-right: 120px;
-color: orange;
-}
-
-#Universe:hover {
-position: absolute;
-right: 50px;
-color: orange;
-}
-
-#merc {
-  color: orange;
-  text-decoration: none;
-}
-
-#merc:hover {
+a {
+  border-bottom: solid yellow 2px;
   color: black;
   text-decoration: none;
 }
 
-#veen {
-  color: orange;
-  text-decoration: none;
-}
-
-#veen:hover {
+a:hover {
+  border-bottom: solid yellow 2px;
   color: black;
   text-decoration: none;
-}
-
-#e {
-color: orange;
-text-decoration: none;
-}
-
-#e:hover {
-  color: black;
-  text-decoration: none;
-}
-
-#div-grey {
-  background-color: #b6c6cc;
-  font-style: italic;
-  font-family: sans-serif;
-}
-
-#pluto {
-  color: orange;
-  text-decoration: none;
-}
-
-#pluto:hover {
-  color: black;
-}
-
-#copyright {
-  background-color: #b6c6cc;
-  font-size: 12px;
-  font-family: sans-serif;
 }
