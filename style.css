@@ -1,35 +1,37 @@
-#top-div {
-  background-color: black;
+#header {
+font-size: 13px;
+opacity: 0.7;
+color: grey;
 }
 
-#heading {
-  color: white;
-  text-align: center;
+#review_tab {
+background-color: hotpink;
+height: 10px;
+width: 15px;
+text-decoration: none;
+color: white;
 }
 
-#heading-p {
-  color: white;
-  text-align: center;
-  top: 3px;
+h1 {
+  font-family: serif;
 }
 
-#who {
-  border-bottom: solid yellow 3px;
-  font-weight: bold;
+#sub_head {
+  color: grey;
+  opacity: 0.8;
 }
 
-#date {
-opacity: 0.5;
+#a {
+color: grey;
+opacity: 0.8;
 }
 
-a {
-  border-bottom: solid yellow 2px;
-  color: black;
-  text-decoration: none;
+.sub_a {
+color: hotpink;
+text-decoration: none;
 }
 
-a:hover {
-  border-bottom: solid yellow 2px;
-  color: black;
-  text-decoration: none;
+.sub_a:hover {
+color: hotpink;
+text-decoration: underline;
 }
