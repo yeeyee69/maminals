@@ -1,37 +1,11 @@
-#header {
-font-size: 13px;
-opacity: 0.7;
-color: grey;
+#hear {
+  color: #323834;
 }
 
-#review_tab {
-background-color: hotpink;
-height: 10px;
-width: 15px;
-text-decoration: none;
-color: white;
+body {
+  background-color: black;
 }
 
-h1 {
-  font-family: serif;
-}
-
-#sub_head {
-  color: grey;
-  opacity: 0.8;
-}
-
-#a {
-color: grey;
-opacity: 0.8;
-}
-
-.sub_a {
-color: hotpink;
-text-decoration: none;
-}
-
-.sub_a:hover {
-color: hotpink;
-text-decoration: underline;
+* {
+margin: 15px;
 }
