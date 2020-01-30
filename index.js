@@ -3,3 +3,10 @@ $("#heading").dblclick(function() {
     console.log("gIgNQD85vJY (1)")
     console.log("83JBVgrKhYY (3)")
 });
+
+$("#key").click(function() {
+    let prmpt = prompt("key: ");
+    if (prmpt == "tell ‡i‡n⁜g‡r‡a‡t‡e‡ answers") {
+        alert = ("U SOLVED IT!!!!!!!");
+    };
+});
